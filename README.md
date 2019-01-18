@@ -8,6 +8,18 @@ The Dataset used in this Project is the [Terrorist Attacks Dataset](https://linq
 
 This Project is divided in three parts :
 
+## Data Acquisition
+
+In this part we familiarize ourselves with the raw data from the dataset.
+
+## Data Exploration
+
+Here we explore the data in more depth and try to extract meaningful informations from it.
+
+## Data Exploitation
+
+Finally we try to use the knowledge extracted from the data to use it in a useful way. Here we will train a Machine Model in order to predict the organization standing behind an attack.
+
 
 # Libraries
 
